@@ -1,3 +1,9 @@
+---
+title: Government Documents and Official Records
+description: Archive of government documents, departmental responses, meeting minutes, fire protection notices, and official administrative records
+keywords: government documents, official records, meeting minutes, fire protection notices, administrative documents, official notices
+---
+
 # Government Documents, Departmental Replies, and Public Letters
 
 This section contains replies from government departments, public letters, statutory orders, and meeting minutes of the Owners' Corporation regarding the Wang Fuk Court fire and related matters.
